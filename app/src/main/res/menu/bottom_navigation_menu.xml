@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/bottom_Navigation_home"
+    android:title="首页"
+    android:icon="@mipmap/fragment_main_select"/>
+
+    <item
+        android:id="@+id/bottom_Navigation_campus"
+        android:title="校园"
+        android:icon="@mipmap/jxiaoyuan"/>
+
+    <item
+        android:id="@+id/bottom_Navigation_find"
+        android:title="发现"
+        android:icon="@mipmap/menu_read"/>
+</menu>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/vip"
+        android:title="了解会员特权"
+        android:icon="@mipmap/vip"/>
+
+    <item
+        android:id="@+id/wallet"
+        android:title="我的钱包"
+        android:icon="@mipmap/wallet"/>
+
+
+    <item
+        android:id="@+id/collection"
+        android:title="我的收藏"
+        android:icon="@mipmap/collection"/>
+
+    <item
+        android:id="@+id/album"
+        android:title="我的相册"
+        android:icon="@mipmap/album"/>
+
+    <item
+        android:id="@+id/flow"
+        android:title="免流量"
+        android:icon="@mipmap/flow"/>
+
+    <item
+        android:id="@+id/file"
+        android:title="我的文件"
+        android:icon="@mipmap/filesearch"/>
+
+
+</menu>
